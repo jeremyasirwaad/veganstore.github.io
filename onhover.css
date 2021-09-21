@@ -1,0 +1,21 @@
+.step1:hover > i,.step2:hover > i,.step3:hover > i,.step4:hover > i
+{
+    transform: scale(1.2);
+}
+
+.step1 i,.step2 i,.step3 i,.step4 i
+{
+    transition: all 0.5s;
+}
+
+.card1:hover,.card2:hover,.card3:hover,.card4:hover
+{
+    /* position: relative;
+    bottom: 20px; */
+    background-color: blanchedalmond;
+}
+
+.card1,.card2,.card3,.card4
+{
+    transition: all 0.5s;
+}
